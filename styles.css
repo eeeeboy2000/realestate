@@ -10,6 +10,7 @@ header
 *{
     padding: 0px;
     margin: 0px;
+    zoom: 75%;
 }
 a{
     font-family: 'Poppins', sans-serif;
